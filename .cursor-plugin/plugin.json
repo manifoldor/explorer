@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Discover the top 10 GitHub Daily Trending repositories with source-grounded Chinese summaries.",
   "author": {
-    "name": "manifoldor"
+    "name": "yishan"
   },
   "keywords": [
     "github-trending",
