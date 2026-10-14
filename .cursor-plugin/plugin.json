@@ -10,5 +10,8 @@
     "open-source-discovery"
   ],
   "mcpServers": "./mcp.json",
-  "repository": "https://github.com/manifoldor/explorer"
+  "repository": "https://github.com/manifoldor/explorer",
+  "homepage": "https://sibox.org",
+  "license": "MIT",
+  "logo": "assets/logo.png"
 }

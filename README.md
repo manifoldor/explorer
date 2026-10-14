@@ -93,3 +93,7 @@ GitHub 今日趋势 Top 10
 `.cursor-plugin/plugin.json` 和 `mcp.json` 提供 Cursor 插件格式；通过 `${CURSOR_PLUGIN_ROOT}` 定位安装目录，使用 `uv` 与锁定依赖启动 MCP。宿主需要已安装 uv，首次启动需下载依赖。Grok Bot 市场环境对该启动方式的支持仍需审核/实际安装验证，手动 Command 接入方式保留。
 
 公开提交入口：https://cursor.com/marketplace/publish 。需公开 Git 仓库及发布者登录；当前未提交、未上架。参考：https://cursor.com/docs/reference/plugins 。
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
