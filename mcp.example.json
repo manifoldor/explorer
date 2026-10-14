@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "explorer": {
+      "command": "/ABSOLUTE/PATH/explorer/.venv/bin/python",
+      "args": ["/ABSOLUTE/PATH/explorer/explorer.py"]
+    }
+  }
+}

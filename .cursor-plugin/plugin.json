@@ -1,0 +1,14 @@
+{
+  "name": "explorer",
+  "version": "1.0.0",
+  "description": "Discover the top 10 GitHub Daily Trending repositories with source-grounded Chinese summaries.",
+  "author": {
+    "name": "manifoldor"
+  },
+  "keywords": [
+    "github-trending",
+    "open-source-discovery"
+  ],
+  "mcpServers": "./mcp.json",
+  "repository": "https://github.com/manifoldor/explorer"
+}

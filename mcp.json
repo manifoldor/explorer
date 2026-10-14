@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "explorer": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with-requirements",
+        "${CURSOR_PLUGIN_ROOT}/requirements.lock.txt",
+        "python",
+        "${CURSOR_PLUGIN_ROOT}/explorer.py"
+      ]
+    }
+  }
+}
