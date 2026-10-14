@@ -13,5 +13,6 @@
   "repository": "https://github.com/manifoldor/explorer",
   "homepage": "https://sibox.org",
   "license": "MIT",
-  "logo": "assets/logo.png"
+  "logo": "assets/logo.png",
+  "publisher": "manifoldor"
 }
